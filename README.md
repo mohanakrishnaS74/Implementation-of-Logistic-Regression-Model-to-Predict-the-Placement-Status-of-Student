@@ -12,7 +12,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 2.Split the data into training and testing sets.
 
-3.Train the Logistic Regression model using training data.
+3.Train the Logistic Regression model using training data. 
 
 4.Predict placement status and evaluate the model.
 
